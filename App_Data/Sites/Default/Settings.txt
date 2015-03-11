@@ -1,0 +1,13 @@
+State: Running
+Themes: 
+Modules: 
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Server=3f71517a-eb39-4efb-9cf8-a458004a1667.sqlserver.sequelizer.com;Database=db3f71517aeb394efb9cf8a458004a1667;User ID=nzcvrqrkygkslpak;Password=c6HCgMzTJcVVynYm5uBWqLVQVs2PgvHWdL2ebqgZEvpL24aTxmVfikjyi2PVUSLn
+DataTablePrefix: orc1
+RequestUrlHost: null
+RequestUrlPrefix: null
+EncryptionAlgorithm: AES
+EncryptionKey: A671CBB8256C5BDDBEEA2405971874591AD628A3717038679D179A8B009093BE
+HashAlgorithm: HMACSHA256
+HashKey: B2A2F4484330014261C9C97704E913669EE95BE20392CB24E44D5F9B23906D969C6A20ACEE5CBDDE75BC107285506D7A906AB98912E275F14B45131A55AA69BC

@@ -1,0 +1,4 @@
+<RecipeStep>
+  <Name>Migration</Name>
+  <Migration features="*" />
+</RecipeStep>
